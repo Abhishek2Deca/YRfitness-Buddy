@@ -1,0 +1,8 @@
+{
+  "name": "WireframeDraft",
+  "description": "Instantly generate app screen layouts using hotlinked images and intuitive design templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
